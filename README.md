@@ -1,2 +1,3 @@
 # termux
 # -sshKeySetup
+# -sshKeySetup
